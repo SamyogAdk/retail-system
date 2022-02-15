@@ -1,0 +1,42 @@
+﻿body {
+    background: url("../images/rtl.jpg");
+}
+
+form {
+    width: 100%;
+    background-color: #fff;
+    margin: auto;
+    padding: 10px;
+}
+
+.row {
+    padding: 10px;
+}
+
+.card {
+    margin: auto;
+    border: 5px #1b6ec2 solid;
+}
+
+.card-body {
+    padding: 0px;
+}
+
+.main-heading {
+    width: 50%;
+    color: #111;
+    margin: auto;
+}
+
+.card-title {
+    color: #0000aa;
+}
+
+.header-box {
+    background-color: #1b6ec2;
+    padding: 10px;
+}
+
+    .header-box h3 {
+        color: white;
+    }
